@@ -1,6 +1,8 @@
 
 <img src="https://github.com/AGH-Code-Industry.png" alt="Timeport" width="100" style="margin-right: 10px;" />
 
+# Available on itch.io!!
+[Czasoport](https://bulba1265.itch.io/czasoport)
 
 # Timeport
 2D Future **Fantasy Adventure and Puzzle** game made with `C#` and `Unity`
